@@ -13,4 +13,3 @@ Fork或借鉴请注明出处 [@ Cong Min](https://github.com/mcc108/resume) . Th
 
 > chrome浏览器 - "打印" - 设置无边距 - 即可导出
 
-![闵聪-简历](https://raw.githubusercontent.com/mcc108/resume/master/resume.jpg)
